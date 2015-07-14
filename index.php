@@ -38,42 +38,6 @@
 	</style>
 	</head>
 	<body style="overflow-x: hidden;">
-	<!--
-	<nav class="navbar navbar-fixed-top" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display --
-        <div class="navbar-header" style="padding-top:1%;padding-left: 4%;">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-top">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <img src="images/logo.png"/>
-         </div>
-        <!-- Collect the nav links, forms, and other content for toggling --
-
-        <div class="collapse navbar-collapse" style="margin-top: 3%;">
-          <ul class="navbar-nav navbar-right">
-            <li class="active"><a href="index.php">Home</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <i style="font-size: 20px;" class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">For Teachers</a></li>
-                                <li><a href="#">For University Students</a></li>
-                                <li><a href="#">For Secondary Schools</a></li>
-                                <li><a href="#">For Primary Schools</a></li>
-                            </ul>
-            </li>
-            <li ><a href="#" >Events</a></li>
-            <li ><a href="#" >Exhibitors</a></li>
-            <li ><a href="gallery.php" >Gallery</a></li>
-            <li ><a href="#" >Sponsors</a></li>
-            <li ><a href="#" >Contacts</a></li>
-          </ul>
-        </div>
-    </nav>
-    
-    Image slider -->
    
     <nav class="navbar navbar-fixed-top navbar-inverse" role="banner">
             <div class="container">
