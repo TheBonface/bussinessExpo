@@ -17,6 +17,7 @@
 		}
 	</style>
 	<body>
+
 	<nav class="navbar navbar-fixed-top navbar-inverse" role="banner">
             <div class="container">
                 <div class="navbar-header">
@@ -53,6 +54,7 @@
                 </div>
             </div><!--/.container-->
         </nav>
+
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++=start of section +++++++++++ -->
     <section>
       <div class="container">
