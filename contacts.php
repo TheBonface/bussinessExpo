@@ -33,7 +33,6 @@
                 padding-right:180px;
                 color:#000;
                }
-      
 
 
 	</style>
@@ -53,6 +52,7 @@
     </script>
 
 	<body style="overflow-y:auto;">
+
          
 		<header>
 			<div class="top-bar">
@@ -136,14 +136,6 @@
         Email 2: <a href="businessexpocountyedition@gmail.com">businessexpocountyedition@gmail.com</a><br>
         Facebook page: <a href="www.facebook.com">Business Expo, Kisumu County Edition 2015</a>
       </p>
-     
-      <!--div class="mail" >
-	      <form action="form-handler.php" method="post">
-		      <legend><h5>Post your e-mail</h5></legend>
-		       <input type="text" name="yourMail" value="Your e-mail">
-		       <input type="submit" value="Submit" style="background-color:#D0D0CD; height:2%;" >
-	      </form>
-      </div -->
 
     </address> 
 </div>  
