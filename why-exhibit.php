@@ -57,7 +57,10 @@
           </button>
           <img src="images/logo.png"/><p>Please contact us at the following address
                        <a href="mailto: info@businessexpo.co.ke">info(at)businessexpo.co.ke</a></p> 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Edited copy
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +89,10 @@
             <li ><a href="contacts.php" >Contacts</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> Edited copy
         <div class = "row ">
         <div class="col-md-8">
 
