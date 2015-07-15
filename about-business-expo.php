@@ -16,7 +16,6 @@
 		.navbar-nav > li > a{
 			font-family:Muli;
 		}
-<<<<<<< HEAD
 
         #map-canvas{
                     position:fixed;
@@ -26,25 +25,12 @@
                     height:350px;
                    }
 
-=======
-	
-<<<<<<< HEAD
+
           #map-canvas {
             
             width: 500px;
             height: 400px;
->>>>>>> Edited copy
-=======
-           #map-canvas{
-                    position:fixed;
-                    margin:60 60 10px 10px;
-                    bottom:20;
-                    width:400px;
-                    height:350px;
-                   }
 
->>>>>>> Edited copy
-          }
            #footer{
                 background-color:#D0D0CD; 
                 position:absolute; 
@@ -53,10 +39,6 @@
                 color:#000;
                }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> Edited copy
            </style>
 
             <script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -139,10 +121,6 @@
             </ul>
             <li ><a href="#" >Sponsors</a></li>
             <li ><a href="contacts.php" >Contacts</a></li>
-<<<<<<< HEAD
-
-=======
->>>>>>> Edited copy
           </ul>
         </div><!-- /.navbar-collapse -->
               </div><!-- /.container -->
@@ -151,13 +129,10 @@
 
         <div class = "row ">
         <div class="col-md-8">
-<<<<<<< HEAD
 
-      	<h3>ABOUT BUSINESS EXPO</h3>
-=======
          
         	<h3>ABOUT BUSINESS EXPO</h3>
->>>>>>> Edited copy
+
         	<p>Business Expo County Edition is a comprehensive multi sector trade portal created to help business owners in all the Counties in Kenya grow their businesses by providing an avenue to meet potential clients and business agents within and around the Counties. Exhibitions are a quantifiable, proven and highly cost effective business tool that offer a one to one marketing experience that is second to none.</p>
         	<p>Its with this backdrop of information that Business Expo County Edition in collaboration with the County Government of Kisumu intends to hold this kind of its own Exhibition dubbed Business Expo, Kisumu County Edition 2015.</p>
         	<p>This annual event intends to bring together Corporate, Large, Medium and Small Companies and Institutions doing businesses in Kisumu County and other parts of the Country for an experiential marketing exhibition, through which they will be able to connect people to their brands or ideas, through a face to face experience that engages them and asks them to participate or at least respond.</p>
@@ -175,23 +150,15 @@ There will be something on offer for everyone – sponsors, exhibitors and visit
         <div class="col-md-4">
 		<div class="thumbnail">
         <img class="img-rounded" data-src="holder.js/140x140" src="images/event-1.jpg"></div>
-<<<<<<< HEAD
 
         <div id="map-canvas">
-=
-=======
-        <div id="map-canvas">
->>>>>>> Edited copy
+
         </div>
         
         </div>
         <div class="row">
         <div class="col-md-8"></div>
         <div class="col-md-4"></div></div>
-<<<<<<< HEAD
-
-=======
->>>>>>> Edited copy
 </div>
         </div>
 
@@ -204,6 +171,7 @@ There will be something on offer for everyone – sponsors, exhibitors and visit
                             <!--2nd column  of  the Page footer -->
                             <div class="col-md-4">
                             
+
                                 
                             </div>
                             
@@ -229,11 +197,6 @@ There will be something on offer for everyone – sponsors, exhibitors and visit
                         
                     </footer>
 
-<<<<<<< HEAD
-=======
-                    
-
->>>>>>> Edited copy
       </div><!-- /.container -->
     </nav>
     </header>
