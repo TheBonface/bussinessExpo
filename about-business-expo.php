@@ -16,6 +16,7 @@
 		.navbar-nav > li > a{
 			font-family:Muli;
 		}
+<<<<<<< HEAD
 
         #map-canvas{
                     position:fixed;
@@ -25,6 +26,13 @@
                     height:350px;
                    }
 
+=======
+	
+          #map-canvas {
+            
+            width: 500px;
+            height: 400px;
+>>>>>>> Edited copy
           }
            #footer{
                 background-color:#D0D0CD; 
@@ -34,7 +42,10 @@
                 color:#000;
                }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Edited copy
            </style>
 
             <script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -117,7 +128,10 @@
             </ul>
             <li ><a href="#" >Sponsors</a></li>
             <li ><a href="contacts.php" >Contacts</a></li>
+<<<<<<< HEAD
 
+=======
+>>>>>>> Edited copy
           </ul>
         </div><!-- /.navbar-collapse -->
               </div><!-- /.container -->
@@ -192,6 +206,11 @@ There will be something on offer for everyone – sponsors, exhibitors and visit
                         
                     </footer>
 
+<<<<<<< HEAD
+=======
+                    
+
+>>>>>>> Edited copy
       </div><!-- /.container -->
     </nav>
     </header>
