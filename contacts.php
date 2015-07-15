@@ -149,21 +149,6 @@
  <p>&copy; 2015 Business Expo &middot; <a href="#">Terms</a></p>
 </div>
 <div class="col-md-4">
-<!--i class="fa fa-phone-square" style="font-size: 20px; padding-left:180px;"></i> 0712 34 56 78 
-</div -->
-<!--div class="col-md-4" style="padding-left:200px;">
-        
-
-                              
-                            	
-                                <a href="https://www.mail.google.com/" style="padding-right:3px; padding-:3px;"><i class="fa  fa-envelope" style="font-size: 20px; "></i></a>
-                                <a href="https://www.facebook.com/"><i class="fa  fa-facebook hvr-shutter-out-horizontal:before" style="font-size: 20px;"></i></a>
-                                <a href="https://www.twitter.com/"><i class="fa  fa-twitter" style="font-size: 20px;"></i></a>
-                                <a href="https://www.linkedin.com/"><i class="fa  fa-linkedin" style="font-size: 20px;"></i></a>
-                                <a href="https://www.dribbble.com/"><i class="fa  fa-dribbble" style="font-size: 20px;"></i></a>
-                                <a href="https://www.skype.com/"><i class="fa  fa-skype" style="font-size: 20px;"></i></a>
-                            	    
-</div-->
 </div>
 </div>
 </div>

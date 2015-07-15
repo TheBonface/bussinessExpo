@@ -178,19 +178,19 @@
                         <a href="#gallery.php">&laquo;</a>
                     </li>
                     <li class="active">
-                        <a href="#gallery1.php">1</a>
+                        <a href="gallery1.php">1</a>
                     </li>
                     <li>
-                        <a href="#gallery2.php">2</a>
+                        <a href="gallery2.php">2</a>
                     </li>
                     <li>
-                        <a href="#gallery3.php">3</a>
+                        <a href="gallery3.php">3</a>
                     </li>
                     <li>
-                        <a href="#gallery4.php">4</a>
+                        <a href="gallery4.php">4</a>
                     </li>
                     <li>
-                        <a href="#gallery5.php">5</a>
+                        <a href="gallery5.php">5</a>
                     </li>
                     <li>
                         <a href="#">&raquo;</a>
