@@ -60,7 +60,8 @@
 
 	<body style="overflow:hidden;">
 
-
+	<body style="overflow-x:hidden;">
+>>>>>>> Updated navbar
          
 		<!--<header> -->
      <!--
