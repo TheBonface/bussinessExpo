@@ -32,12 +32,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-
-          <img src="images/logo.png"/><p>Please contact us at the following address
-                       <a href="mailto: info@businessexpo.co.ke">info(at)businessexpo.co.ke</a></p> 
-
-        </div>
-
+          <img src="images/logo.png"/>
+         </div>
+        
+        <div class="social pull-right">
+                            
+                            
+                            
+         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
 
         <div class="collapse navbar-collapse" style="margin-top: 6%;">
