@@ -123,7 +123,11 @@ nav .navbar-nav li:hover:before {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
+<<<<<<< HEAD
 	background-color: rgb(150,201,61);
+=======
+  background-color: rgb(150,201,61);
+>>>>>>> reverted file
     color: #FFFFFF;
 }
 
@@ -190,12 +194,17 @@ nav .navbar-nav li:hover:before {
 }
 
 .social-share ul li{
-	padding-left:0px;
+  padding-left:0px;
 }
 
 #main-slider {
+<<<<<<< HEAD
   	position: relative;
   	margin-top:125px;
+=======
+    position: relative;
+    margin-top:125px;
+>>>>>>> reverted file
 }
 
 .no-margin {
@@ -223,10 +232,17 @@ nav .navbar-nav li:hover:before {
 }
 
 #main-slider .carousel .slide-margin h1{
+<<<<<<< HEAD
 	border-top:3px solid #fff;
 	border-bottom:3px solid #fff;
 	padding-top:10px;
 	padding-bottom:10px;
+=======
+  border-top:3px solid #fff;
+  border-bottom:3px solid #fff;
+  padding-top:10px;
+  padding-bottom:10px;
+>>>>>>> reverted file
 }
 
 #main-slider .carousel h2 {
@@ -387,6 +403,7 @@ nav .navbar-nav li:hover:before {
 }
 
 .heading-title h2{
+<<<<<<< HEAD
 	position: relative;
 	display: inline;
 	padding: 12px 20px;
@@ -442,18 +459,83 @@ nav .navbar-nav li:hover:before {
 		-ms-border-radius: 100%;
 		 -o-border-radius: 100%;
 			border-radius: 100%;
+=======
+  position: relative;
+  display: inline;
+  padding: 12px 20px;
+  font-size: 28px;
+  line-height: 32px;
+  text-transform: uppercase;
+  font-weight: 600;
+  border: 2px solid #898ba2;
+}
+
+.heading-title{
+  display: block;
+  text-align: center;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+.heading-title.bg-white h2::before{
+  background: #fff;
+}
+
+.heading-title h2::before{
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin-top: -16px;
+  margin-left: -15px;
+  background: #f4f4f4;
+  -webkit-border-radius: 100%;
+     -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+     -o-border-radius: 100%;
+      border-radius: 100%;
+}
+
+.heading-title h2::after{
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin-top: -7px;
+  margin-left: -6px;
+  background: #898ba2;
+  -webkit-border-radius: 100%;
+     -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+     -o-border-radius: 100%;
+      border-radius: 100%;
+>>>>>>> reverted file
 }
 
 /************* Footer ************/
 #footer{
+<<<<<<< HEAD
 	width: 100%;
 	padding: 60px 0 0;
 	background-color: #0f101a;
 	margin-top:20px;
+=======
+  width: 100%;
+  padding: 60px 0 0;
+  background-color: #0f101a;
+  margin-top:20px;
+>>>>>>> reverted file
 }
 
 #footer .widget:before,
 #footer .widget:after{
+<<<<<<< HEAD
 	content: "";
 	display: table;
 	clear: both;
@@ -480,65 +562,138 @@ nav .navbar-nav li:hover:before {
 	font-weight: 800;
 	color: #d9dae9;
 	margin-bottom: 30px;
+=======
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#footer .widget{
+  color:#d9dae9;
+  margin-bottom: 20px;
+}
+
+#footer .widget h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 800;
+  color: #d9dae9;
+  margin-bottom: 20px;
+}
+
+#footer .widget h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 800;
+  color: #d9dae9;
+  margin-bottom: 30px;
+>>>>>>> reverted file
 }
 
 #footer .widget > ul,
 #footer .widget ul{
+<<<<<<< HEAD
 	list-style-type: none;
 	padding-left: 0;
 	margin-left: 0;
+=======
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+>>>>>>> reverted file
 }
 
 #footer .widget > ul > li,
 #footer .widget > ul > li > a,
 #footer .widget ul > li,
 #footer .widget ul > li > a{
+<<<<<<< HEAD
 	display: block;
 	padding: 2px 0;
 	font-size: 14px;
 	color: #898ba2;
 	font-weight: 400;
+=======
+  display: block;
+  padding: 2px 0;
+  font-size: 14px;
+  color: #898ba2;
+  font-weight: 400;
+>>>>>>> reverted file
 }
 
 #footer .widget > ul > li > a::before,
 #footer .widget ul > li > a::before{
+<<<<<<< HEAD
 	content: '\f10c';
 	font-family: 'FontAwesome';
 	font-size: 15px;
 	font-weight: 400;
 	padding-right: 15px;
+=======
+  content: '\f10c';
+  font-family: 'FontAwesome';
+  font-size: 15px;
+  font-weight: 400;
+  padding-right: 15px;
+>>>>>>> reverted file
 }
 
 #footer .widget > ul > li > a:hover,
 #footer .widget > ul > li > a:focus,
 #footer .widget ul > li > a:hover,
 #footer .widget ul > li > a:focus{
+<<<<<<< HEAD
 	color: #37bc9b;
+=======
+  color: #37bc9b;
+>>>>>>> reverted file
 }
 
 #footer .widget.widget_recent_comments > ul > li > a,
 #footer .widget.widget_recent_comments ul > li > a{
+<<<<<<< HEAD
 	display: inline-block;
+=======
+  display: inline-block;
+>>>>>>> reverted file
 }
 
 #footer .widget.widget_recent_comments > ul > li > a:before,
 #footer .widget.widget_recent_comments ul > li > a:before {
+<<<<<<< HEAD
 	content: "";
 	font-family: 'Raleway', sans-serif;
 	padding-right: 0;
+=======
+  content: "";
+  font-family: 'Raleway', sans-serif;
+  padding-right: 0;
+>>>>>>> reverted file
 }
 
 #footer .widget.widget_recent_comments > ul > li:before,
 #footer .widget.widget_recent_comments ul > li:before{
+<<<<<<< HEAD
 	content: '\f05d';
 	font-family: 'FontAwesome';
 	font-size: 16px;
 	font-weight: 400;
 	padding-right: 15px;
+=======
+  content: '\f05d';
+  font-family: 'FontAwesome';
+  font-size: 16px;
+  font-weight: 400;
+  padding-right: 15px;
+>>>>>>> reverted file
 }
 
 
 /* 
+<<<<<<< HEAD
 	==================
 	[11. COPYRIGHT]
 	==================
@@ -586,11 +741,64 @@ nav .navbar-nav li:hover:before {
 
 .copyright .social-links > li > .icon-facebook:hover{
 	background: #4467ad;
+=======
+  ==================
+  [11. COPYRIGHT]
+  ==================
+*/
+.copyright{
+  position: relative;
+  margin-top: 60px;
+  padding: 60px 0 40px;
+  text-align: center;
+  border-top: 1px solid #2c3e50;
+}
+
+.copyright .scroltop{
+  position: absolute;
+  left: 50%;
+  top: -18px;
+  margin-left: -18px;
+}
+
+.copyright .social-links > li > a{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  margin-top: 25px;
+  background: #6b6e80;
+  display: block;
+  border-radius: 100%;
+}
+
+.copyright .social-links > li > a > .fa{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 18px;
+  height: 18px;
+  margin-left: -9px;
+  margin-top: -9px;
+  color: #1b1d2a;
+  font-size: 19px;
+}
+
+.copyright .social-links > li > .icon-twitter:hover{
+  background: #4099ff;
+}
+
+.copyright .social-links > li > .icon-facebook:hover{
+  background: #4467ad;
+>>>>>>> reverted file
 }
 
 .copyright .social-links > li > .icon-youtube:hover,
 .copyright .social-links > li > .icon-gplus:hover{
+<<<<<<< HEAD
 	background: #ff4b4b;
+=======
+  background: #ff4b4b;
+>>>>>>> reverted file
 }
 
 /********* Footer ends here **************/
