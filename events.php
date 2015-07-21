@@ -32,26 +32,15 @@
           <img src="images/logo.png"/>
          </div>
         
-        <div class="social pull-right">
-                            
-                            <ul class="social-share">
-                                <li><i class="fa fa-phone-square" style="font-size: 20px;"></i> 0712 34 56 78</li>
-                                <li><i class="fa  fa-envelope" style="font-size: 20px;"></i></li>
-                                <li><i class="fa  fa-facebook" style="font-size: 20px;"></i></li>
-                                <li><i class="fa  fa-twitter" style="font-size: 20px;"></i></li>
-                                <li><i class="fa  fa-linkedin" style="font-size: 20px;"></i></li> 
-                                <li><i class="fa  fa-dribbble" style="font-size: 20px;"></i></li>
-                                <li><i class="fa  fa-skype" style="font-size: 20px;"></i></li>
-                            </ul>
-                            
-         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
 
         <div class="collapse navbar-collapse" style="margin-top: 6%;">
           <ul class="nav navbar-nav navbar-right">
+
             <li><a href="index.php">Home</a></li>
             <li ><a href="#" >About Us</a></li>
             <li class="active"><a href="events.php">Events</a></li>
+
             <li ><a href="#" >Exhibitors</a></li>
              <li ><a href="gallery.php" >Gallery</a></li>
             <li ><a href="#" >Sponsors</a></li>

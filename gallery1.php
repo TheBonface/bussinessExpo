@@ -178,6 +178,7 @@
                         <a href="#gallery.php">&laquo;</a>
                     </li>
                     <li class="active">
+<<<<<<< HEAD
                         <a href="gallery1.php">1</a>
                     </li>
                     <li>
@@ -191,6 +192,21 @@
                     </li>
                     <li>
                         <a href="gallery5.php">5</a>
+=======
+                        <a href="#gallery1.php">1</a>
+                    </li>
+                    <li>
+                        <a href="#gallery2.php">2</a>
+                    </li>
+                    <li>
+                        <a href="#gallery3.php">3</a>
+                    </li>
+                    <li>
+                        <a href="#gallery4.php">4</a>
+                    </li>
+                    <li>
+                        <a href="#gallery5.php">5</a>
+>>>>>>> 27d3d5b62d5f3cb767fa4ee3b6c0285cec51369d
                     </li>
                     <li>
                         <a href="#">&raquo;</a>

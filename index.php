@@ -76,6 +76,11 @@
             </div><!--/.container-->
         </nav>
 
+
+    <section>
+    
+    <!-- Image slider -->
+>
     <div class="row">
     <div id="main-slider" class="no-margin">
         <div class="carousel slide">
@@ -324,6 +329,7 @@
 
       </div>
     </div>
+
     </div>
     
    <script src="js/jquery.min.js"></script>
